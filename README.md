@@ -1,1 +1,1 @@
-I think these notes are super useful for people who are new to rings, groups etc. I am hoping that anyone who has taken 1st year linear algebra courses should be able to understand these notes. Liam is actually a super cool grad student and mentored Amelie and myself during the program). 
+I think these notes are super useful for people who are new to rings, groups etc. I am hoping that anyone who has taken 1st year linear algebra courses should be able to understand these notes. Liam is actually a super cool grad student and mentored Amelie and myself during the program. 
